@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<body>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/lightgrey?style=flat-square&logo=simpleicons#A8B9CC&logoColor=white"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/lightgrey?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+</body>
 <!--
 **tgb02087/tgb02087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

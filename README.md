@@ -1,4 +1,4 @@
-### Hi there 👋
+### 김강호입니다. 👋
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tgb02087)](https://solved.ac/tgb02087)

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={tgb02087})](https://solved.ac/{tgb02087})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tgb02087)](https://solved.ac/tgb02087)
 
 <body>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>

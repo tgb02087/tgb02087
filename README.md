@@ -40,6 +40,7 @@
 
 ### Git Status
 ![tgb02087's github stats](https://github-readme-stats.vercel.app/api?username=tgb02087&show_icons=true&theme=apprentice)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgb02087&langs_count=10&layout=compact&theme=apprentice" alt="Top Languages" />
 
 </div>
 <!--
